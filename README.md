@@ -3,12 +3,12 @@
 - 🌱 Estudando C#, HTML, CSS e JS
 - 📫 Contate-me: nataliacavalcantebl@gmail.com
 - 😄 Pronomes: ela/dela
-- ⚡ Fun fact: As vezes faço joguinhos e me arrisco em ilustrações digitais
+- ⚡ Fun fact: As vezes me arrisco em ilustrações digitais
 
 <div align="center">
   <a href="https://github.com/nataliacabarb">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nataliacabarb&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliacabarb&layout=compact&langs_count=7&theme=gruvbox"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nataliacabarb&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliacabarb&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
 
 <div style="display: inline_block"><br>
